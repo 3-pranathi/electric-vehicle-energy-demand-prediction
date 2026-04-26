@@ -1,0 +1,46 @@
+Electric Vehicle Energy Demand Prediction Techniques: An In-Depth and Critical Systematic Review
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:8.September.2023
+
+Electric vehicle charging demand, forecast, stochatic models, machine learning, nonlinear
+modeling, time series.
+
+
+Electric_Vehicle_Energy_Demand_Prediction
+
+
+
+electric_vehicle_energy_demand_prediction
+
+
+
+energy_demand_prediction
+
+
+
+
+
+Fid	
+Station_Name	
+Start_Date	
+End_Date	
+Total_Duration_hh_mm_ss	
+Charging_Time_hh_mm_ss		
+Energy_kWh	
+Port_Number	
+Plug_Type	
+Address1	
+City	
+State_Province	
+Country	
+Latitude	
+Longitude	
+Fee_USD	
+Ended_By	
+Make	
+Model	
+Vehicle_Type
+Prediction
+
+
+
